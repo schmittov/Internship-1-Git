@@ -3,4 +3,5 @@ Matea ima z pobjeda i n poraza!
 
 O . x
 O x .
-O . .
+O x .
+
